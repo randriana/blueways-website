@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a4727a6dc5ed02ca2fe121e2507448a",
+    "revision": "31c5693999516edff3ca09c1460a72ee",
     "url": "/blueways-website/index.html"
   },
   {
-    "revision": "230d07f52e31ae1c4159",
-    "url": "/blueways-website/static/css/main.de175070.chunk.css"
+    "revision": "ffddd21300568dc5b422",
+    "url": "/blueways-website/static/css/main.ca8088a7.chunk.css"
   },
   {
     "revision": "43d1f55c2a696b4563b8",
     "url": "/blueways-website/static/js/2.179f4c70.chunk.js"
   },
   {
-    "revision": "230d07f52e31ae1c4159",
+    "revision": "ffddd21300568dc5b422",
     "url": "/blueways-website/static/js/main.74b6ba90.chunk.js"
   },
   {
