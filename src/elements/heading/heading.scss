@@ -1,0 +1,23 @@
+.heading {
+    display: inline-block;
+    &__text {
+        position: relative;
+        top: 0;
+        font-size: 35px;
+        font-family: "Open Sans";
+        color: #183c6b;
+        margin: 0;
+        letter-spacing: .5px;
+
+        &:after {
+            content:'';
+            position:absolute;
+            left:0;right:0;
+            top:100%;
+            margin: 15px auto;
+            width: 70px;
+            height: 4px;
+            background:#183c6b;
+        }
+    }
+}

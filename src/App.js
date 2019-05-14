@@ -2,6 +2,7 @@ import React from 'react';
 import './App.scss';
 import Header from "./components/header/header";
 import Navbar from "./components/navbar/navbar";
+import About from "./components/about/about";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         <Navbar/>
         <main className="main">
             <Header/>
+            <About/>
         </main>
     </div>
   );
