@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/blueways-website/static/css/main.de175070.chunk.css",
+    "main.js": "/blueways-website/static/js/main.74b6ba90.chunk.js",
+    "main.js.map": "/blueways-website/static/js/main.74b6ba90.chunk.js.map",
+    "runtime~main.js": "/blueways-website/static/js/runtime~main.d19f9992.js",
+    "runtime~main.js.map": "/blueways-website/static/js/runtime~main.d19f9992.js.map",
+    "static/js/2.179f4c70.chunk.js": "/blueways-website/static/js/2.179f4c70.chunk.js",
+    "static/js/2.179f4c70.chunk.js.map": "/blueways-website/static/js/2.179f4c70.chunk.js.map",
+    "index.html": "/blueways-website/index.html",
+    "precache-manifest.af62e6a8f0607617c9af5466cd06db5c.js": "/blueways-website/precache-manifest.af62e6a8f0607617c9af5466cd06db5c.js",
+    "service-worker.js": "/blueways-website/service-worker.js",
+    "static/css/main.de175070.chunk.css.map": "/blueways-website/static/css/main.de175070.chunk.css.map",
+    "static/media/blueways_logo.svg": "/blueways-website/static/media/blueways_logo.61535b08.svg",
+    "static/media/hero_image.jpg": "/blueways-website/static/media/hero_image.b877e416.jpg"
+  }
+}
