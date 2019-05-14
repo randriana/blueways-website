@@ -2,6 +2,7 @@
   "name": "blueways-react",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://rinaandriana.github.io/blueways-website",
   "dependencies": {
     "node-sass": "^4.12.0",
     "react": "^16.8.6",
