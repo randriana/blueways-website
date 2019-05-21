@@ -6,7 +6,7 @@ import Paragraph from "../../elements/paragraph/paragraph";
 class About extends React.Component {
     render() {
         return(
-            <section className="about">
+            <section id="about" className="about">
                 <Heading>Hvem er vi?</Heading>
                 <div className="about__paragraph">
                     <Paragraph>Blueways vil gjennom flere prosjekter bidra til å bekjempefattigdom på Madagaskar.

@@ -13,10 +13,10 @@ class Navbar extends React.Component {
                 </div>
                 <div className="navbar__navigation">
                     <div className="navbar__navigation__item">
-                        <a href="#">Hvem er vi?</a>
+                        <a href="#about">Hvem er vi?</a>
                     </div>
                     <div className="navbar__navigation__item">
-                        <a href="#">Det store prosjektet</a>
+                        <a href="#project">Det store prosjektet</a>
                     </div>
                     <div className="navbar__navigation__item">
                         <a href="#">Kontakt oss</a>

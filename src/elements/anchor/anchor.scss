@@ -1,0 +1,10 @@
+a {
+    text-decoration: none;
+    color: #183c6b;
+    font-size: 22px;
+    font-weight: bold;
+
+    &:hover {
+        border-bottom: 3px solid #183c6b;
+    }
+}
