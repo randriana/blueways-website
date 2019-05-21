@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18096fd639db60685af16fca71ff31c9",
+    "revision": "63efba272428febcbbf6767edb6c9eec",
     "url": "/blueways-website/index.html"
   },
   {
-    "revision": "d5bc089a44d59ba7801e",
-    "url": "/blueways-website/static/css/main.784a0440.chunk.css"
+    "revision": "4b82f0e8125c5f90bdc5",
+    "url": "/blueways-website/static/css/main.9fc2c492.chunk.css"
   },
   {
-    "revision": "43d1f55c2a696b4563b8",
-    "url": "/blueways-website/static/js/2.179f4c70.chunk.js"
+    "revision": "efc3d230fd1e1b3caa34",
+    "url": "/blueways-website/static/js/2.bbcd3f81.chunk.js"
   },
   {
-    "revision": "d5bc089a44d59ba7801e",
-    "url": "/blueways-website/static/js/main.ccbde52f.chunk.js"
+    "revision": "4b82f0e8125c5f90bdc5",
+    "url": "/blueways-website/static/js/main.b473479d.chunk.js"
   },
   {
     "revision": "c16869e6f1ddc91d9d65",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "61535b08fa43ff02219c525936dfafd0",
     "url": "/blueways-website/static/media/blueways_logo.61535b08.svg"
+  },
+  {
+    "revision": "79b1fab1ebf55845d1f3f47953747b26",
+    "url": "/blueways-website/static/media/children.79b1fab1.jpg"
   },
   {
     "revision": "b877e4165c576a49c7d08a6dfc90fea4",

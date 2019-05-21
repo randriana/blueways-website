@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/blueways-website/precache-manifest.4c2b7b0f3f2c41080ce572ee7bed25c0.js"
+  "/blueways-website/precache-manifest.ca0328eab5eb3b8f52aa0682b9bdf993.js"
 );
 
 self.addEventListener('message', (event) => {
